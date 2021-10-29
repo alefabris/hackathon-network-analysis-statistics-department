@@ -4,6 +4,6 @@ To take these names (of the authors) and have the lists of publications we have 
 The original file was in Italian and I translate all in English, so if there are some grammatical mistake it's for that (😂).
 My solution wa one of the best so I hope that this file can help you to improve you statistics/data scientist/coding skills.
 
-This is the final output required at the hackathon:
+This is the final output required at the hackathon (I know you don't see much of the names and nodes per se but it is exactly this graphical setup that has been requested of us):
 
 ![Figure 1](https://github.com/alefabris/hackathon-network-analysis-statistics-department/blob/main/network.png)
